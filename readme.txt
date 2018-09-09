@@ -1,4 +1,4 @@
-This repo contains a Brainfuck interpreter in C, and one in Python. 
+This repo contains a Brainf**k interpreter in C, and one in Python. 
 
 Barry Rountree, my mentor at LLNL during summer 2017, had me write them to better understand Nanopond.
 The instruction set that the cells use is similar to that of Bf.
